@@ -655,7 +655,7 @@ footer ul li a:hover{
         gap: 0.7;
         width: auto;
         display: grid;
-        grid-template-columns:1fr 1fr;
+        grid-template-columns:20% 80%;
     }
     .faqs__container{
         display: grid;
