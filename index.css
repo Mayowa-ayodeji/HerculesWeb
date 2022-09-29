@@ -636,6 +636,7 @@ footer ul li a:hover{
         gap: 0.7;
         width: auto;
         display: grid;
+        grid-template-columns:1fr;
     }
     .faq__icon{
         display:inline-block;
