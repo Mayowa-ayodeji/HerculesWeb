@@ -620,7 +620,7 @@ footer ul li a:hover{
         gap:1rem;
         grid-template-columns:1fr;
     }
-    .faq{
+    article.faq{
         height:5rem;
         grid-template-columns:20% 80%;
 
@@ -651,7 +651,7 @@ footer ul li a:hover{
     .header__right{
         height: 20rem;
     }
-    .faq{
+    article.faq{
         gap: 0.7;
         width: auto;
         display: grid;
