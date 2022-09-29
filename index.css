@@ -637,6 +637,9 @@ footer ul li a:hover{
         width: auto;
         display: grid;
     }
+    .faq__icon{
+        display:inline-block;
+    }
     .courses{
         gap: 0.4;
     }
