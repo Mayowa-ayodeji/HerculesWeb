@@ -616,8 +616,20 @@ footer ul li a:hover{
         height: 28rem;
     }
     .faqs__container{
-        display: grid;
-        grid-template-columns:  1fr;    
+        display:grid;
+        gap:1rem;
+        grid-template-columns:1fr;
+    }
+    .faq{
+        height:5rem;
+    }
+    .faq.open{
+        height:fit-content;
+    }
+    .question__answer h4{
+        font-size:2.1rem;
+        text-align:center;
+        padding-left:9vw;
     }
     .footer__container{
         display: grid;
