@@ -617,7 +617,7 @@ footer ul li a:hover{
     }
     .faqs__container{
         display: grid;
-        grid-template-columns: repeat(1,1fr);    
+        grid-template-columns: 1fr;    
     }
     .footer__container{
         display: grid;
@@ -641,14 +641,11 @@ footer ul li a:hover{
         gap: 0.7;
         width: auto;
         display: grid;
-        grid-template-columns:1fr;
-    }
-    .faq__icon{
-        display:inline-block;
+        grid-template-columns: 1fr;
     }
     .faqs__container{
-    display: grid;
-    grid-template-columns: 1fr;
+        display: grid;
+        grid-template-columns: 1fr;
     }
     .courses{
         gap: 0.4;
