@@ -615,9 +615,9 @@ footer ul li a:hover{
     .courses{
         height: 28rem;
     }
-    .faq__container{
+    .faqs__container{
         display: grid;
-        grid-template-columns: 1fr;
+        grid-template-columns: repeat(2,1fr);    
     }
     .footer__container{
         display: grid;
