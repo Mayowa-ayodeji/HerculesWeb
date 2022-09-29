@@ -627,7 +627,7 @@ footer ul li a:hover{
     }
     .faq__icon{
         display:inline-block;
-        width:1rem;
+        width:0.2rem;
     }
     .faq.open{
         height:fit-content;
