@@ -626,8 +626,8 @@ footer ul li a:hover{
     footer{
         text-align: center
     }
-    .faqs{
-        display:flex;
+    .faq__icon{
+        display:inline-block;
     }
 }
 @media screen and (max-width:540px){
