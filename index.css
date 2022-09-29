@@ -622,7 +622,7 @@ footer ul li a:hover{
     }
     .faq{
         height:5rem;
-        grid-template-columns:1fr 1fr;
+        grid-template-columns:20% 80%;
 
     }
     .faq__icon{
@@ -638,10 +638,7 @@ footer ul li a:hover{
     footer{
         text-align: center
     }
-    .faq{
-        display:grid;
-        grid-template-columns: 1fr 1fr;    
-    }
+    
 }
 @media screen and (max-width:540px){
     body{
