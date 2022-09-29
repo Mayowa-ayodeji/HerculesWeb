@@ -617,7 +617,7 @@ footer ul li a:hover{
     }
     .faqs__container{
         display: grid;
-        grid-template-columns: 1fr 1fr;    
+        grid-template-columns:  1fr;    
     }
     .footer__container{
         display: grid;
@@ -625,6 +625,9 @@ footer ul li a:hover{
     }
     footer{
         text-align: center
+    }
+    .faqs{
+        display:flex;
     }
 }
 @media screen and (max-width:540px){
