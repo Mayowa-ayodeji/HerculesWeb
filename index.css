@@ -625,6 +625,9 @@ footer ul li a:hover{
         grid-template-columns:1fr 1fr;
 
     }
+    .faq__icon{
+        display:inline-block;
+    }
     .faq.open{
         height:fit-content;
     }
