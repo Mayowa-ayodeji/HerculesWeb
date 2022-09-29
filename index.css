@@ -549,7 +549,8 @@ footer ul li a:hover{
     /*==FAQS==*/
     .faqs__container{
         display: grid;
-        grid-template-columns: repeat(1,1fr);    }
+        grid-template-columns: repeat(2,1fr);    
+    }
     .faq{
         padding: 1.5rem;
     }
@@ -613,6 +614,10 @@ footer ul li a:hover{
     }
     .courses{
         height: 28rem;
+    }
+    .faq__container{
+        display: grid;
+        grid-template-columns: 1fr;
     }
     .footer__container{
         display: grid;
